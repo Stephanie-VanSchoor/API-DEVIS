@@ -1,0 +1,41 @@
+# 📄 API Devis - Extraction Automatique
+
+> Extrayez automatiquement les données de vos devis en 1 seconde.
+
+---
+
+## 🎯 À quoi ça sert ?
+
+Votre entreprise reçoit des devis par email, PDF ou papier. Un employé passe du temps à **lire, comprendre et saisir** les informations dans votre système.
+
+**Notre API fait ce travail à votre place :**
+- 👉 Vous envoyez le devis (texte ou bientôt PDF)
+- 👉 L'API extrait automatiquement les données
+- 👉 Vous recevez les informations structurées
+
+---
+
+## ⚡ Ce que l'API extrait
+
+| Information | Exemple |
+|-------------|---------|
+| Numéro de devis | `2025-0789` |
+| Fournisseur | `Menuiserie Martin SPRL` |
+| Date | `15/09/2025` |
+| Total HT | `635,00 €` |
+| TVA | `21 %` |
+| Total TTC | `768,35 €` |
+
+---
+
+## 🚀 Exemple d'utilisation
+
+### 1. Envoyer un devis
+
+```text
+DEVIS N° 2025-0789
+Fournisseur : Menuiserie Martin SPRL
+Date : 15/09/2025
+Total HT : 635,00€
+TVA (21%) : 133,35€
+Total TTC : 768,35€
