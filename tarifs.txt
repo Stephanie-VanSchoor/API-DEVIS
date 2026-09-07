@@ -1,0 +1,71 @@
+💰 TARIFS POUR L'API IMMOBILIÈRE
+Offre Découverte (500 €)
+
+    Installation de l'API sur votre ordinateur
+
+    Extraction des 6 champs principaux (numéro, propriétaire, bien, adresse, prix, date)
+
+    1 mois de support
+
+Offre Standard (1 200 €)
+
+    Installation de l'API sur votre ordinateur ou serveur
+
+    Extraction de 8 à 10 champs (ajout : surface, chambres, étage, honoraires...)
+
+    3 mois de support
+
+    1 heure de formation
+
+Offre Sur Mesure (1 500 - 2 500 €)
+
+    Installation complète
+
+    Extraction de tous les champs personnalisés
+
+    6 mois de support
+
+    Formation de l'équipe
+
+    Export automatique vers Excel
+
+💰 TARIFS ABONNEMENT (Optionnel)
+Formule	Prix mensuel	Inclus
+Mensuel	150 €/mois	Support + mises à jour
+Annuel	1 500 €/an	2 mois offerts
+💰 TARIFS POUR L'API DEVIS (PME)
+Offre Découverte (400 €)
+
+    Installation de l'API
+
+    Extraction des 6 champs principaux (numéro, fournisseur, date, HT, TVA, TTC)
+
+    1 mois de support
+
+Offre Standard (1 000 €)
+
+    Installation + personnalisation des règles
+
+    Extraction de 8 champs (ajout : code TVA, délai, etc.)
+
+    3 mois de support
+
+    1 heure de formation
+
+Offre Sur Mesure (1 200 - 2 000 €)
+
+    Installation complète
+
+    Tous les champs personnalisés
+
+    6 mois de support
+
+    Formation
+
+    Export Excel
+
+📊 TABLEAU COMPARATIF
+Secteur	Offre Découverte	Offre Standard	Offre Sur Mesure
+Immobilier	500 €	1 200 €	1 500-2 500 €
+Devis (PME)	400 €	1 000 €	1 200-2 000 €
+Abonnement	150 €/mois	150 €/mois	150 €/mois
