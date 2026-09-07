@@ -23,6 +23,25 @@ Votre entreprise reçoit des devis par email, PDF ou papier. Un employé passe d
 | Fournisseur | `Menuiserie Martin SPRL` |
 | Date | `15/09/2025` |
 | Total HT | `635,00 €` |
+
+2. L'API répond avec des données structurées
+{
+  "numero": "2025-0789",
+  "fournisseur": "Menuiserie Martin SPRL",
+  "date": "15/09/2025",
+  "total_ht": 635.0,
+  "tva": 21.0,
+  "total_ttc": 768.35
+}
+📦 Installation
+# 1. Cloner le projet
+git clone https://github.com/votre-nom/api-devis
+
+# 2. Installer les dépendances
+pip install -r requirements.txt
+
+# 3. Lancer l'API
+python main.py
 | TVA | `21 %` |
 | Total TTC | `768,35 €` |
 
